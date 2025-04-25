@@ -12,7 +12,7 @@ The assignment focuses on:
 
 This foundational assignment sets the stage for building and training deep neural networks efficiently.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3
 - NumPy
